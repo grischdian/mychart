@@ -1,0 +1,4 @@
+ingress:
+  host: "default.training.b1-systems.de"
+
+replicas: 3
